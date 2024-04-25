@@ -58,7 +58,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: AV1004.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: valay104@gmail.com<br/><br/>
+ 🔭 &emsp; Love Astronomy<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/AV1004/AV1004/issues)
 
 </p>
