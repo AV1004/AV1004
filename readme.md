@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=valay+andhariya">「 Google Me 」</a>
     <br>
-    「 I am a full stack developer from <b>Bangladesh</b> 」
+    「 I am a full stack developer from <b>India</b> 」
     <br>
     <br>
   </samp>
