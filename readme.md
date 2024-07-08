@@ -41,8 +41,8 @@
  <a href="https://www.linkedin.com/in/valay-andhariya-753104248/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AV1004"/>
  </a>
- <a href="https://valay-tech-sphere.vercel.app/" target="_blank">
-  PORTFOLIO
+ <a href="https://valay-tech-sphere.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="AV1004" />
  </a>
  <a href="https://www.instagram.com/_.valay._.10._.04/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="AV1004" />
