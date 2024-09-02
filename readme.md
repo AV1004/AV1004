@@ -41,7 +41,7 @@
  <a href="https://valay-tech-sphere.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="AV1004" />
  </a>
- <a href="https://www.instagram.com/_.valay._.10._.04/" target="_blank">
+ <a href="https://www.instagram.com/valay_andhariya/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="AV1004" />
  </a> 
 </p>
